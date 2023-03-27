@@ -1,4 +1,4 @@
-### Hello! I'm Ludjy, welcomne to my profile!✨
+### Hello! I'm Ludjy, welcome to my profile!✨
 ![ludjy banner](https://user-images.githubusercontent.com/126501848/227803009-1cf5ced3-2b3f-4a0c-8093-2296d83275c5.png)
 
 
