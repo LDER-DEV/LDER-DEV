@@ -6,8 +6,8 @@ Software Engineer @ResilientCoders
 
 
 
-Twitter : twitter.com/ludjyD ||
-Portfolio: <a href = 'Ludjydev.netlify.app' >Ludjydev.netlify.app</a>
+<a href = 'twitter.com/ludjyD'>Twitter</a>||
+<a href = 'Ludjydev.netlify.app' >Check out my portfolio</a>
 <!--
 **LDER-DEV/LDER-DEV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
