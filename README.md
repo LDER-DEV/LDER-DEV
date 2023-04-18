@@ -1,13 +1,14 @@
 ### Hello! I'm Ludjy, welcome to my profile!✨
 Software Engineer @ResilientCoders
+<a href = 'twitter.com/ludjyD'>Twitter</a> | |
+<a href = 'Ludjydev.netlify.app' >Portfolio</a>
+
 ![ludjy banner](https://user-images.githubusercontent.com/126501848/227803009-1cf5ced3-2b3f-4a0c-8093-2296d83275c5.png)
 
 
 
 
 
-<a href = 'twitter.com/ludjyD'>Twitter</a> | |
-<a href = 'Ludjydev.netlify.app' >Portfolio</a>
 <!--
 **LDER-DEV/LDER-DEV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
